@@ -9,7 +9,7 @@
 - Press 'Win + R'.
 - Type 'shell:startup' and press ENTER.
 - Drop your app here.
-- Restart now or double-click the app to run it.
+- Double-click the app to run it now, or restart PC.
 
 ## How to use?
 **Shortcut Key:** `ALT` + `` ` ``
